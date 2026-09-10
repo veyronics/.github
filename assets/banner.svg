@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+  <defs>
+    <radialGradient id="glow" cx="30%" cy="20%" r="70%">
+      <stop offset="0%" stop-color="#0a5fff" stop-opacity="0.35"/>
+      <stop offset="45%" stop-color="#0a5fff" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#0a5fff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="amberGlow" cx="85%" cy="85%" r="40%">
+      <stop offset="0%" stop-color="#ffb100" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#ffb100" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a5fff"/>
+      <stop offset="50%" stop-color="#ffb100"/>
+      <stop offset="100%" stop-color="#2b8fff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="320" fill="#000000"/>
+  <rect width="1280" height="320" fill="url(#glow)"/>
+  <rect width="1280" height="320" fill="url(#amberGlow)"/>
+
+  <circle cx="150" cy="160" r="56" fill="none" stroke="url(#ring)" stroke-width="3"/>
+  <circle cx="150" cy="160" r="18" fill="#0a5fff"/>
+
+  <text x="240" y="150" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="56" font-weight="600" fill="#ffffff" letter-spacing="-1">Veyronics</text>
+  <text x="242" y="192" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="20" font-weight="400" fill="#86868b">Software engineered like a hypercar.</text>
+</svg>
