@@ -4,7 +4,7 @@
   <h3>Software engineered like a hypercar.</h3>
   <p>Fast. Beautifully designed. Powered by AI.</p>
 
-  <a href="https://www.veyronics.vercel.app">Website</a> ·
+  <a href="https://veyronics.vercel.app">Website</a> ·
   <a href="mailto:veyronicstech@gmail.com">Contact</a> ·
   <a href="#-what-were-building">What we're building</a> ·
   <a href="#-careers">Careers</a>
@@ -12,9 +12,9 @@
 
 <br />
 
-## About Veyronics
+## About Veyronics Tech
 
-Veyronics builds modern software with an obsession over speed, design, and intelligence. We started with AI-powered admin dashboards — deployable in hours, built to scale, and designed to feel inevitable — and we're expanding from there.
+We build modern software with an obsession over speed, design, and intelligence. We started with AI-powered admin dashboards, deployable efficiently, built to scale, and designed to feel inevitable. And we're expanding from there.
 
 We believe software doesn't have to choose between fast, beautiful, and smart. Every product we ship is held to all three.
 
@@ -37,7 +37,7 @@ We build primarily in TypeScript, React, and Next.js on the frontend, with a foc
 
 - **General inquiries:** [veyronicstech@gmail.com](mailto:veyronicstech@gmail.com)
 - **Support:** [veyronicstech+support@gmail.com](mailto:veyronicstech+support@gmail.com)
-- **Request a demo:** [www.veyronics.vercel.app/#contact](https://www.veyronics.vercel.app/#contact)
+- **Request a demo:** [veyronics.vercel.app/#contact](https://veyronics.vercel.app/#contact)
 
 ## 💼 Careers
 
